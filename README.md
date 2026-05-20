@@ -100,3 +100,4 @@ Open the app in your browser at the URL shown by Vite, typically `http://localho
 - If the API cannot connect to Ollama, verify `http://localhost:11434/api/generate` is reachable.
 - If PDF upload fails, make sure the file is a valid PDF document.
 - For frontend issues, rebuild with `npm run build` and check console logs.
+"# GenAi-Project" 
